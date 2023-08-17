@@ -1,6 +1,6 @@
 .Imagem{
     width: 120px!important;
-    height: 100px!important;
+    height: 130px!important;
 }
 .div-todasimagens{
     display: grid;
@@ -15,6 +15,39 @@
     margin-bottom: 7px;
     text-align: center;
 }
-@media screen  {
+
+@media screen and (min-width:840px) {
+body{background: rgb(150, 150, 185);}
+
+    .Imagem{
+        border: 3px solid rgb(92, 82, 136);
+        width: 100px!important;
+        height: 100px!important;
+    }
+
+    .titulo_cabecalho{
+        font-size: 25px;
+        color:rgb(34, 14, 88);
+        
+    }
+
+}
+
+@media screen and (min-width:1024px) {
+    body{background: rgb(146, 112, 112);}
+
+    .Imagem{
+        border: 3px solid rgb(82, 8, 8);
+        width: 130px!important;
+        height: 130px!important;
+    }
+
+    .titulo_cabecalho{
+        font-size: 35px;
+        color:rgb(95, 6, 6);
+        
+    }
+
+
     
 }

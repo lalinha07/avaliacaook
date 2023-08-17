@@ -58,10 +58,4 @@
     display: none;
     color: brown(29, 29, 121);
 }
-@media screen and (min-width:1024) {
-    .titulo__cabecalho{
-        font-size: 30px;
-        font-family: var(--font-secundaria);
-        color: brown(73 , 44, 240) (43, 226, 101);
-    } 
-}
+

@@ -26,8 +26,9 @@ body{background: rgb(150, 150, 185);}
     }
 
     .titulo_cabecalho{
-        font-size: 25px;
+        font-size: 22px;
         color:rgb(34, 14, 88);
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
         
     }
 
@@ -43,9 +44,9 @@ body{background: rgb(150, 150, 185);}
     }
 
     .titulo_cabecalho{
-        font-size: 35px;
+        font-size: 24px;
         color:rgb(95, 6, 6);
-        
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
 
 

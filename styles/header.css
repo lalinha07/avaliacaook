@@ -18,9 +18,12 @@
 .container{
     display: flex;
     align-items: center;
+    
+
 }
 .container__imagem{
     padding: 1em;
+   
 }
 
 .lista-menu{
@@ -40,6 +43,7 @@
 
 .lista-menu__titulo{
     color: var(--amarelo);
+   
 }
 
 .lista-menu__item{
@@ -58,4 +62,6 @@
     display: none;
     color: brown(29, 29, 121);
 }
-
+.logo{
+    width: 10px;
+}
